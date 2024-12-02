@@ -17,3 +17,14 @@ You can use the script I provided:
 ```bash
 bash script
 ```
+
+
+Evaluation:
+Fist install python library:
+```bash
+pip install scikit-image
+pip install opencv-python
+```
+```bash
+python Evaluation.py <path_to_original_image> <path_to_compressed_image>
+```
